@@ -5,7 +5,7 @@ The Simon Game is a classic memory game where players repeat a sequence of butto
 
 ## Deployment
 
-The game has been deployed using GitHub Pages and is available to experience at [SimonGame]()
+The game has been deployed using GitHub Pages and is available to experience at [SimonGame](https://schat55.github.io/simon-game/)
 Please provide your valuable feedback or suggestions on the same.
 
 ## Screenshots
